@@ -1,0 +1,5 @@
+/.vscode
+/dist
+/index-linux
+/index-macos
+/node_modules
